@@ -1,7 +1,11 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/157228234?s=400&u=51d444634311fbd112ae76218ac91b5d2fbf25b4&v=4" width="350px">
-<h1>Kitty Cat Club</h1>
-<p>We are a very epic development association providing the needs of all students around the globe with over 70K subsequent users.</p><br/>
-<h2>Join Our Discord!</h2>
-https://discord.gg/zw7GaBCsHt
+  <img src="https://raw.githubusercontent.com/thekittycatclub/Kitty-Cat-Club/main/static/img/logowithbg_rounded.png" width="350px">
+  <h1> Kitty Cat Club</h1></h1>
 <div>
+  
+## Who are we?
+We are a very epic development association providing the needs of all students around the globe with over 70K subsequent users.<br/>
+
+## Our Community (Discord server)!
+If you need any help or if you want to interact with other users, then this server is for you!
+[![Join us on Discord](https://invidget.switchblade.xyz/zw7GaBCsHt?theme=dark)](https://discord.gg/zw7GaBCsHt)
