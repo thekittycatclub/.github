@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/thekittycatclub/Kitty-Cat-Club/main/static/img/logowithbg_rounded.png" width="350px">
-  <h1> Kitty Cat Club</h1></h1>
+  <h1>Kitty Cat Club LLC</h1>
 <div>
   
 ## Who are we?
